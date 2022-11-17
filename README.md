@@ -17,7 +17,6 @@ This project is part of the Javascript Blockchain/Smart Contract FreeCodeCamp Co
   - [Verify on etherscan](#verify-on-etherscan)
 - [Linting](#linting)
 - [Formatting](#formatting)
-- [Thank you!](#thank-you)
 
 # Usage
 
